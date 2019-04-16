@@ -13,7 +13,7 @@ namespace dotnet_ef_migration.Controllers
 {
     public class StudentController : Controller
     {
-        private SchoolContext db = new SchoolContext();
+        private SchoolContext db = new SchoolDbContext();
 
         // GET: Student
         public ActionResult Index()

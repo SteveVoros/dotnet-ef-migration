@@ -7,7 +7,7 @@ namespace ContosoUniversity.DAL
     public class SchoolContext : DbContext
     {
 
-        public SchoolContext() : base("sqlconnectionstring")
+        public SchoolContext(string NameorConnectionString) : base(NameorConnectionString)
         {
         }
 
