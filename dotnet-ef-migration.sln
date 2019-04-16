@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-ef-migration", "dotnet-ef-migration\dotnet-ef-migration.csproj", "{9FB6FD8B-1B11-4A62-AC32-8EABA25516AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContextAssembly", "ContextAssembly\ContextAssembly.csproj", "{DD10F4F9-6D6B-4B4D-92E6-264F61D2E4F8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "shared\Shared.csproj", "{DD10F4F9-6D6B-4B4D-92E6-264F61D2E4F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

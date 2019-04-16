@@ -200,9 +200,9 @@
     <Content Include="Scripts\jquery-3.3.1.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ContextAssembly\ContextAssembly.csproj">
+    <ProjectReference Include="..\shared\Shared.csproj">
       <Project>{dd10f4f9-6d6b-4b4d-92e6-264f61d2e4f8}</Project>
-      <Name>ContextAssembly</Name>
+      <Name>Shared</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
