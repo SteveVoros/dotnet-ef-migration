@@ -7,8 +7,8 @@
     <ProjectGuid>{DD10F4F9-6D6B-4B4D-92E6-264F61D2E4F8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ContextAssembly</RootNamespace>
-    <AssemblyName>ContextAssembly</AssemblyName>
+    <RootNamespace>Shared</RootNamespace>
+    <AssemblyName>Shared</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
